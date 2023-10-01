@@ -11,7 +11,7 @@ http://svtv.xyz:8080/Rigo2/r4TqXGc/124550
 http://svtv.xyz:8080/Rigo2/r4TqXGc/124552
 #EXTINF:-1 tvg-id=""tvg-logo="",America TV HD
 http://magi-stv.net:8080/IMazariegos/7TCGCYqCgcEY/11437
-#EXTINF:-1 tvg-id=""tvg-logo="http://atlantis-mx.com/logos/americatv.png",America TV FHD" tvg-logo="http://atlantis-mx.com/logos/americatv.png"
+#EXTINF:-1 tvg-id=""tvg-logo="",America TV FHD" tvg-logo="http://atlantis-mx.com/logos/americatv.png"
 http://magi-stv.net:8080/IMazariegos/7TCGCYqCgcEY/199968
 #EXTINF:-1 tvg-id=""tvg-logo="",PANAMERICANA HD
 http://magi-stv.net:8080/IMazariegos/7TCGCYqCgcEY/10640
@@ -27,24 +27,20 @@ http://svtv.xyz:8080/Rigo2/r4TqXGc/192537
 http://170.81.240.10:8000/play/a006/index.m3u8
 #EXTINF:-1 tvg-id=""tvg-logo="",ATV+ HD
 http://170.81.240.10:8000/play/a007/index.m3u8
-#EXTINF:-1 tvg-id=""tvg-logo="http://castlempire.site:8080/images/fa16a32fff5cfd974c0e0c860473a7f8.png",Liga 1 MAX (1920) (EXCLUSIVO)"tvg-id=""tvg-logo="http://castlempire.site:8080/images/fa16a32fff5cfd974c0e0c860473a7f8.png"
-http://castlempire.site:8080/wilfo49/Gk4g8UCaH7Ca/247397
-#EXTINF:-1 tvg-id=""tvg-logo="",Liga 1 (1920) (EXCLUSIVO) UHD
-http://castlempire.site:8080/wilfo49/Gk4g8UCaH7Ca/247398
-#EXTINF:-1 tvg-id=""tvg-logo="http://castlempire.site:8080/images/05cdc0afa07eb4e0a9dfd4c20a760481.jpg",LIGA 1 MAX"tvg-id=""tvg-logo="http://castlempire.site:8080/images/05cdc0afa07eb4e0a9dfd4c20a760481.jpg"
-http://castlempire.site:8080/wilfo49/Gk4g8UCaH7Ca/256886
-#EXTINF:-1 tvg-id=""tvg-logo="http://castlempire.site:8080/images/05cdc0afa07eb4e0a9dfd4c20a760481.jpg",LIGA 1 MAX FHD"tvg-id=""tvg-logo="http://castlempire.site:8080/images/05cdc0afa07eb4e0a9dfd4c20a760481.jpg"
-http://castlempire.site:8080/wilfo49/Gk4g8UCaH7Ca/256888
-#EXTINF:-1 tvg-id=""tvg-logo="http://castlempire.site:8080/images/05cdc0afa07eb4e0a9dfd4c20a760481.jpg",LIGA 1 MAX HD"tvg-id=""tvg-logo="http://castlempire.site:8080/images/05cdc0afa07eb4e0a9dfd4c20a760481.jpg"
-http://castlempire.site:8080/wilfo49/Gk4g8UCaH7Ca/256889
+#EXTINF:-1 tvg-id="" tvg-name="PER: LIGA 1 MAX ᴸᴵᴳᴬ ¹" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/62/Liga_de_F%C3%BAtbol_Profesional_-_Liga_1_%28Per%C3%BA%29.jpg"
+http://00322.xyz:8000/rances123/9IFBBCRBIX/159941
+#EXTINF:-1 tvg-id="" tvg-name="PER: LIGA 1  HD ᴸᴵᴳᴬ ¹" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/62/Liga_de_F%C3%BAtbol_Profesional_-_Liga_1_%28Per%C3%BA%29.jpg"
+http://00322.xyz:8000/rances123/9IFBBCRBIX/164826
+#EXTINF:-1 tvg-id="" tvg-name="PER: DIRECTV SPORTS (PERU) ᴸᴵᴳᴬ ¹" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/62/Liga_de_F%C3%BAtbol_Profesional_-_Liga_1_%28Per%C3%BA%29.jpg"
+http://00322.xyz:8000/rances123/9IFBBCRBIX/151931
 #EXTINF:-1 tvg-id=""tvg-logo="",GLOBAL HD
 http://magi-stv.net:8080/IMazariegos/7TCGCYqCgcEY/2169944
 #EXTINF:-1 tvg-id=""tvg-logo="",LA TELE HD
 http://magi-stv.net:8080/IMazariegos/7TCGCYqCgcEY/2107635
 #EXTINF:-1 tvg-id=""tvg-logo="",GOLPERU HD
 http://177.53.153.21:8001/play/a03z/index.m3u8
-#EXTINF:-1 tvg-id=""tvg-logo="http://castlempire.site:8080/images/8309648923bf090f5ed7eb3c96b9ab9b.png",GOL PERU FHD" tvg-logo="http://castlempire.site:8080/images/8309648923bf090f5ed7eb3c96b9ab9b.png"
-http://castlempire.site:8080/wilfo49/Gk4g8UCaH7Ca/256890
+#EXTINF:-1 tvg-id=""tvg-logo="",GOL PERU FHD
+http://00322.xyz:8000/rances123/9IFBBCRBIX/152495
 #EXTINF:-1 tvg-id=""tvg-logo="",TL NOVELAS HD
 http://magi-stv.net:8080/IMazariegos/7TCGCYqCgcEY/154093
 #EXTINF:-1 tvg-id=""tvg-logo="",Las Estrellas HD
