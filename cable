@@ -8,9 +8,9 @@ http://187.102.208.152:8000/play/a06i/index.m3u8
 #EXTINF:-1,4 AMERICA TV HD 
 http://187.102.208.152:8000/play/a0av/index.m3u8
 #EXTINF:-1,4 AMERICA TV HD 
-http://00322.xyz:8000/rances123/9IFBBCRBIX/3318
+http://glowrestream.com:8080/tvcol002/vXbDoi5Or5/129874
 #EXTINF:-1,4 AMERICA TV HD 
-http://00322.xyz:8000/rances123/9IFBBCRBIX/3319
+http://glowrestream.com:8080/tvcol002/vXbDoi5Or5/129888
 #EXTINF:-1,5 PANAMERICANA HD 
 http://8.242.225.44:8000/play/a0j6/index.m3u8
 #EXTINF:-1,6 EXITOSA HD
@@ -38,7 +38,7 @@ http://209.45.77.121:8000/play/a00g
 #EXTINF:-1,15 GOLPERU HD
 http://177.53.153.21:8001/play/a03z/index.m3u8
 #EXTINF:-1,15 GOLPERU HD
-http://00322.xyz:8000/rances123/9IFBBCRBIX/152495
+http://glowrestream.com:8080/tvcol002/vXbDoi5Or5/215522
 #EXTINF:-1,16 TL NOVELAS HD
 http://177.53.155.236:8000/play/a09m/index.m3u8
 #EXTINF:-1,17 LAS ESTRELLAS HD
@@ -474,7 +474,7 @@ http://209.45.81.84:8000/play/a00c
 http://209.45.77.121:8000/play/a00g
 #EXTINF:-1 tvg-id="" tvg-name="PE | LIGA 1 MAX" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/62/Liga_de_F%C3%BAtbol_Profesional_-_Liga_1_%28Per%C3%BA%29.jpg" group-title="TV | PERU DEPORTES",PE | LIGA 1 MAX
 http://187.102.208.109:50001/play/a03y/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PE | DIRECT TV SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/62/Liga_de_F%C3%BAtbol_Profesional_-_Liga_1_%28Per%C3%BA%29.jpg" group-title="TV | PERU DEPORTES",PE | DIRECT TV SPORTS
-http://00322.xyz:8000/rances123/9IFBBCRBIX/151931
+#EXTINF:-1 tvg-id="" tvg-name="PE | MOVISTAR DEPORTES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/62/Liga_de_F%C3%BAtbol_Profesional_-_Liga_1_%28Per%C3%BA%29.jpg" group-title="TV | PERU DEPORTES",PE | MOVISTAR DEPORTES
+http://glowrestream.com:8080/tvcol002/vXbDoi5Or5/105204
 #EXTINF:-1 tvg-id="" tvg-name="PE | GOL PERU" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/62/Liga_de_F%C3%BAtbol_Profesional_-_Liga_1_%28Per%C3%BA%29.jpg" group-title="TV | PERU DEPORTES",PE | GOL PERU
-http://00322.xyz:8000/rances123/9IFBBCRBIX/152495
+http://glowrestream.com:8080/tvcol002/vXbDoi5Or5/129875
