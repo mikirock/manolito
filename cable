@@ -1,30 +1,30 @@
 #EXTM3U
 #EXTINF:-1,1 WILLAX HD
-http://177.53.153.20:8001/play/a00j/index.m3u8
+http://177.53.153.225:8000/play/a00o/index.m3u8
 #EXTINF:-1,2 LATINA HD
 http://45.189.117.32:6178/play/a0t8/index.m3u8
 #EXTINF:-1,3 MOVISTAR DEPORTES HD
-http://187.102.209.211:50000/play/a01i/index.m3u8
+http://177.53.155.236:8000/play/a00i/index.m3u8
 #EXTINF:-1,4 AMERICA TV HD 
-http://190.187.247.206:17070/play/a03j/index.m3u8
+http://45.173.201.50:8000/play/a0ac/index.m3u8
 #EXTINF:-1,5 PANAMERICANA HD 
 http://209.45.81.84:8000/play/a00b
 #EXTINF:-1,6 EXITOSA HD
-http://209.45.81.84:8000/play/a035
+http://177.53.153.225:8000/play/a00n/index.m3u8
 #EXTINF:-1,7 TV PERU HD
-http://190.187.247.206:17070/play/a036/index.m3u8
+http://38.56.220.254:8000/play/a002/index.m3u8
 #EXTINF:-1,8 CANAL N HD
 http://161.132.194.88:6178/play/a0qn/index.m3u8
 #EXTINF:-1,9 ATV HD 
-http://209.45.81.84:8000/play/a031
+http://38.56.220.254:8000/play/a005/index.m3u8
 #EXTINF:-1,10 ATV+ HD 
-http://177.53.155.236:8000/play/a07z/index.m3u8
+http://38.56.220.254:8000/play/a006/index.m3u8
 #EXTINF:-1,11 UNICENTRO TV HD
 https://ott1.hdlatam.tv/live/UnicentroTV/playlist.m3u8
 #EXTINF:-1,12 LATIN CABLE TV HD
 https://mserver.latincable.net/LatinTV/index.m3u8
 #EXTINF:-1,13 GLOBAL HD
-http://190.187.247.206:17070/play/a0b2/index.m3u8
+http://38.56.220.254:8000/play/a008/index.m3u8
 #EXTINF:-1,14 LIGA 1 MAX HD
 http://190.187.154.156:8000/play/a0ca/index.m3u8
 #EXTINF:-1,15 GOLPERU HD
@@ -32,9 +32,9 @@ http://191.52.214.5:8000/play/a03m/index.m3u8
 #EXTINF:-1,16 TL NOVELAS HD
 http://190.102.139.244:8900/play/a127/index.m3u8
 #EXTINF:-1,17 LAS ESTRELLAS HD
-http://177.53.153.225:8000/play/a04i/index.m3u8
+http://177.53.153.20:8001/play/a0by/index.m3u8
 #EXTINF:-1,18 PASIONES HD
-http://45.173.201.6:8000/play/a01s/index.m3u8
+http://177.53.153.20:8001/play/a0at/index.m3u8
 #EXTINF:-1,19 KANAL D DRAMA HD
 http://45.189.117.32:6178/play/a0sx/index.m3u8
 #EXTINF:-1,20 TNT NOVELAS HD
@@ -48,29 +48,29 @@ http://177.53.153.20:8001/play/a0c4/index.m3u8
 #EXTINF:-1,24 CARACOL HD
 http://45.189.117.32:6178/play/a0tg/index.m3u8
 #EXTINF:-1,25 TELEMUNDO HD
-http://177.53.153.225:8000/play/a05h/index.m3u8
+http://177.53.153.20:8001/play/a06f/index.m3u8
 #EXTINF:-1,26 STAR TVE HD
 http://45.189.117.32:6178/play/a0sy/index.m3u8
 #EXTINF:-1,27 E! HD
 http://45.189.117.32:6178/play/a0ry/index.m3u8
 #EXTINF:-1,28 COMEDY CENTRAL HD
-http://177.53.153.225:8000/play/a06x/index.m3u8
+http://177.53.153.20:8001/play/a02i/index.m3u8
 #EXTINF:-1,29 DISTRITO COMEDIA HD
-http://45.5.117.182:8000/play/ihf9/index.m3u8
+http://161.132.243.192:50001/play/a04h/index.m3u8
 #EXTINF:-1,30 K-TV HD
 http://45.191.196.10:8000/play/a00x
 #EXTINF:-1,31 MTV HD
-http://177.53.153.225:8000/play/a04g/index.m3u8
+http://177.53.153.20:8001/play/a049/index.m3u8
 #EXTINF:-1,32 MTV LIVE HD
-http://177.53.153.225:8000/play/a037/index.m3u8
+http://177.53.153.20:8001/play/a02t/index.m3u8
 #EXTINF:-1,33 MTV 00s HD
-http://45.173.201.6:8000/play/a01z/index.m3u8
+http://177.53.153.20:8001/play/a09c/index.m3u8
 #EXTINF:-1,34 STINGRAY CONCERTS HD
 http://187.102.209.211:50000/play/a01r/index.m3u8
 #EXTINF:-1,35 TELEHIT HD
-http://161.132.108.75:50001/play/a04c/index.m3u8
+http://177.53.153.225:8000/play/a040
 #EXTINF:-1,36 TELEHIT PLUS HD
-http://161.132.243.192:50001/play/a04d/index.m3u8
+http://190.61.46.126:8000/play/a041/index.m3u8
 #EXTINF:-1,37 URBANO TV HD
 https://ott1.hdlatam.tv/live/Creo_Urbano/playlist.m3u8
 #EXTINF:-1,38 MIMUSICA REGAETON HD
@@ -88,37 +88,37 @@ http://190.110.109.104:52321/play/a019/index.m3u8
 #EXTINF:-1,44 OLD MUSIC HD
 http://190.110.109.104:52321/play/a01a/index.m3u8
 #EXTINF:-1,45 ANIMAL PLANET HD
-http://177.53.153.225:8000/play/a03x/index.m3u8
+http://177.53.153.20:8001/play/a03k/index.m3u8
 #EXTINF:-1,46 DISCOVERY HD
 http://177.53.153.20:8001/play/a04d/index.m3u8
 #EXTINF:-1,47 DISCOVERY WORLD HD
 http://177.53.153.20:8001/play/a037/index.m3u8
 #EXTINF:-1,48 DISCOVERY ID HD
-http://177.53.153.225:8000/play/a082/index.m3u8
+http://177.53.153.20:8001/play/a0av/index.m3u8
 #EXTINF:-1,49 DISCOVERY HOME & HEALTH HD
-http://177.53.153.225:8000/play/a06v/index.m3u8
+http://177.53.153.20:8001/play/a02p/index.m3u8
 #EXTINF:-1,50 DISCOVERY THEATER HD
-http://45.173.201.6:8000/play/a02a/index.m3u8
+http://190.187.154.156:8000/play/a0dk/index.m3u8
 #EXTINF:-1,51 HISTORY CHANNEL HD
 http://177.53.153.20:8001/play/a064/index.m3u8
 #EXTINF:-1,52 HISTORY 2 HD
-http://177.53.153.225:8000/play/a04m/index.m3u8
+http://177.53.153.20:8001/play/a04f/index.m3u8
 #EXTINF:-1,53 NAT GEO HD
-http://177.53.153.225:8000/play/a03j/index.m3u8
+http://177.53.153.20:8001/play/a036/index.m3u8
 #EXTINF:-1,54 LOVE NATURE HD
 http://177.53.153.20:8001/play/a0bo/index.m3u8
 #EXTINF:-1,55 ADULT SWIM HD
 http://177.53.153.20:8001/play/a02k/index.m3u8
 #EXTINF:-1,56 CARTOON NETWORK HD
-http://190.187.247.206:17070/play/a09h/index.m3u8
+http://45.189.117.32:6178/play/a0pn/index.m3u8
 #EXTINF:-1,57 CARTOONITO HD
-http://181.174.228.123:9080/play/a03g/index.m3u8
+http://181.78.17.26:1010/play/a09b/index.m3u8
 #EXTINF:-1,58 TOONCAST HD
 http://45.189.117.32:6178/play/a0uk/index.m3u8
 #EXTINF:-1,59 DISNEY HD
-http://38.43.150.126:8000/play/a037/index.m3u8
+http://38.56.119.119:8000/play/a01n/index.m3u8
 #EXTINF:-1,60 NICK HD
-http://177.53.153.225:8000/play/a020/index.m3u8
+http://177.53.153.20:8001/play/a023/index.m3u8
 #EXTINF:-1,61 TEEN NICK HD
 http://177.53.153.20:8001/play/a068/index.m3u8
 #EXTINF:-1,62 DISCOVERY KIDS HD
@@ -138,25 +138,25 @@ http://45.177.98.42:9800/play/181
 #EXTINF:-1,69 SMART MOVIES HD
 http://45.191.196.10:8000/play/a00k
 #EXTINF:-1,70 AXN HD
-http://177.53.153.225:8000/play/a01s/index.m3u8
+http://177.53.153.20:8001/play/a01v/index.m3u8
 #EXTINF:-1,71 SONY HD
-http://177.53.153.225:8000/play/a01q/index.m3u8
+http://177.53.153.20:8001/play/a01t/index.m3u8
 #EXTINF:-1,72 SONY MOVIES HD
 http://200.58.64.229:8000/play/a02e/index.m3u8
 #EXTINF:-1,73 WARNER CHANNEL HD
-http://177.53.153.225:8000/play/a06o/index.m3u8
+http://177.53.153.20:8001/play/a01u/index.m3u8
 #EXTINF:-1,74 TNT HD
 http://38.56.118.88:4000/play/a00r/index.m3u8
 #EXTINF:-1,75 TNT SERIES HD
-http://190.187.247.206:17070/play/a08g/index.m3u8
+http://177.53.153.20:8001/play/a02y/index.m3u8
 #EXTINF:-1,76 A&E HD
-http://177.53.153.225:8000/play/a01p/index.m3u8
+http://177.53.153.20:8001/play/a01s/index.m3u8
 #EXTINF:-1,77 SPACE HD
 http://191.52.214.5:8000/play/a01w/index.m3u8
 #EXTINF:-1,78 AMC HD
-http://190.187.247.206:17070/play/a09e/index.m3u8
+http://177.53.153.20:8001/play/a039/index.m3u8
 #EXTINF:-1,79 CINECANAL HD
-http://177.53.153.225:8000/play/a03l/index.m3u8
+http://177.53.153.20:8001/play/a08n/index.m3u8
 #EXTINF:-1,80 CINEMAX HD
 http://191.52.214.5:8000/play/a02a/index.m3u8
 #EXTINF:-1,81 STAR CHANNEL HD
@@ -164,7 +164,7 @@ http://177.53.153.20:8001/play/a022/index.m3u8
 #EXTINF:-1,82 FX HD
 http://38.56.118.88:4000/play/a01x/index.m3u8
 #EXTINF:-1,83 PARAMOUNT HD
-http://177.53.153.225:8000/play/a03r/index.m3u8
+http://177.53.153.20:8001/play/a03e/index.m3u8
 #EXTINF:-1,84 GOLDEN PLUS HD
 http://161.132.194.88:6178/play/a0rv/index.m3u8
 #EXTINF:-1,85 GOLDEN EDGE HD
@@ -172,13 +172,13 @@ http://187.102.208.109:50001/play/a04a/index.m3u8
 #EXTINF:-1,86 GOLDEN PREMIERE HD
 http://177.53.153.20:8001/play/a053/index.m3u8
 #EXTINF:-1,87 GOLDEN PREMIERE 2 HD
-http://177.53.153.225:8000/play/a02j/index.m3u8
+http://177.53.153.20:8001/play/a054/index.m3u8
 #EXTINF:-1,88 CLOVER HD 
 http://177.53.153.20:8001/play/a020/index.m3u8
 #EXTINF:-1,89 DHE HD
-http://177.53.153.225:8000/play/a04j/index.m3u8
+http://177.53.153.20:8001/play/a04c/index.m3u8
 #EXTINF:-1,90 AZ CINEMA HD
-http://177.53.153.225:8000/play/a03u/index.m3u8
+http://177.53.153.20:8001/play/a03h/index.m3u8
 #EXTINF:-1,91 DE PELICULA HD
 http://204.199.113.33:15017/play/a072/index.m3u8
 #EXTINF:-1,92 CINE FAMILIAR HD
@@ -232,27 +232,28 @@ http://38.43.140.97:8000/play/a03s/index.m3u8
 #EXTINF:-1,116 WIN SPORTS+ HD
 http://177.53.153.20:8001/play/a03j/index.m3u8
 #EXTINF:-1,117 FOX SPORTS HD
-http://177.53.153.225:8000/play/a04l/index.m3u8
+http://177.53.153.20:8001/play/a04e/index.m3u8
 #EXTINF:-1,118 FOX SPORTS 2
-http://177.53.153.225:8000/play/a039/index.m3u8
+http://177.53.153.20:8001/play/a02v/index.m3u8
 #EXTINF:-1,119 FOX SPORTS 3 HD
-http://177.53.153.225:8000/play/a02r/index.m3u8
+http://177.53.153.20:8001/play/a02d/index.m3u8
 #EXTINF:-1,120 ESPN HD
-http://177.53.153.225:8000/play/a022/index.m3u8
+http://190.187.154.156:8000/play/a04w/index.m3u8
 #EXTINF:-1,121 ESPN 2 HD
-http://177.53.153.225:8000/play/a01v/index.m3u8
+http://177.53.153.20:8001/play/a021/index.m3u8
 #EXTINF:-1,122 ESPN 3 HD
-http://177.53.153.225:8000/play/a02q/index.m3u8
+http://177.53.153.20:8001/play/a02c/index.m3u8
 #EXTINF:-1,123 ESPN 4 HD
-http://177.53.153.225:8000/play/a038/index.m3u8
+http://177.53.153.20:8001/play/a02u/index.m3u8
 #EXTINF:-1,124 ESPN EXTRA HD
-http://177.53.153.225:8000/play/a03n/index.m3u8
+http://177.53.153.20:8001/play/a03a/index.m3u8
 #EXTINF:-1,125 TNT SPORTS HD
 http://177.53.153.20:8001/play/a01x/index.m3u8
 #EXTINF:-1,126 CLARO SPORTS HD
-http://190.216.162.155:8000/play/a00k
+http://200.58.64.229:8000/play/a030/index.m3u8
 #EXTINF:-1,127 CLARO SPORTS 2 HD
-http://190.216.162.155:8000/play/a00l
+http://45.5.117.182:8000/play/a0e5/index.m3u8
+
 
 
 #EXTINF:-1,200 DRAGON BALL 24/7
@@ -264,15 +265,15 @@ https://kingtvplus.online:443/Julio/Julio/178461.ts
 #EXTINF:-1,203 DRAGON BALL SUPER 24/7
 https://kingtvplus.online:443/Julio/Julio/178460.ts
 #EXTINF:-1,204 DRAGON BALL MOVIES 24/7
-http://tele.premiumstore.biz:8080/live/UEDdV896hJ/avsd2KZV4N/6521.ts
+http://zeuspro.xyz:8080/Salomonfran/NYBt1chgZM/119556
 #EXTINF:-1,205 LOS SIMPSONS 24/7
 https://kingtvplus.online:443/Julio/Julio/196925.ts
 #EXTINF:-1,206 PADRE DE FAMILIA 24/7
 https://kingtvplus.online:443/Julio/Julio/196953.ts
 #EXTINF:-1,207 FUTURAMA 24/7
-http://tele.premiumstore.biz:8080/live/UEDdV896hJ/avsd2KZV4N/6447.ts
+http://dns.k4livetv.com:80/Alienhost400/WCwuhHbSJAjY/1036842
 #EXTINF:-1,208 UN SHOW MAS 24/7
-https://kingtvplus.online:443/Julio/Julio/197000.ts
+http://dns.k4livetv.com:80/Alienhost400/WCwuhHbSJAjY/1037508
 #EXTINF:-1,209 RICK AND MORTY 24/7
 https://kingtvplus.online:443/Julio/Julio/196967.ts
 #EXTINF:-1,210 GRAVITY FALLS 24/7
@@ -282,9 +283,9 @@ https://kingtvplus.online:443/Julio/Julio/192745.ts
 #EXTINF:-1,212 EVANGELION 24/7
 https://kingtvplus.online:443/Julio/Julio/196951.ts
 #EXTINF:-1,213 LA CASA DE LOS DIBUJOS 24/7
-http://samuraitv.online:8000/JULIEALFA5151/5151ALFAJULIE/279723
+http://zeuspro.xyz:8080/pedroperez/vBe949SYAY/37825
 #EXTINF:-1,214 HEY ARNOLD 24/7
-http://samuraitv.online:8000/JULIEALFA5151/5151ALFAJULIE/279717
+http://dns.k4livetv.com:80/Alienhost400/WCwuhHbSJAjY/1038578
 #EXTINF:-1,215 LOS CABALLERO DEL ZODIACO 24/7
 https://kingtvplus.online:443/Julio/Julio/178456.ts
 #EXTINF:-1,216 SUPERCAMPEONES 24/7
@@ -327,12 +328,22 @@ https://kingtvplus.online:443/Julio/Julio/192699.ts
 https://kingtvplus.online:443/Julio/Julio/178425.ts
 #EXTINF:-1,235 XMEN 24/7
 https://kingtvplus.online:443/Julio/Julio/178417.ts
-#EXTINF:-1,236 CINE ANIME 24/7
-https://kingtvplus.online:443/Julio/Julio/194768.ts
+#EXTINF:-1,236 RANMA 1/2 24/7
+http://zeuspro.xyz:8080/Salomonfran/NYBt1chgZM/38449
 #EXTINF:-1,237 DORAEMON 24/7
 https://kingtvplus.online:443/Julio/Julio/196826.ts
-#EXTINF:-1,238 31 MINUTOS 24/7
-http://tele.premiumstore.biz:8080/live/UEDdV896hJ/avsd2KZV4N/117815.ts
+#EXTINF:-1,238 CANDY 24/7
+http://zeuspro.xyz:8080/pedroperez/vBe949SYAY/37880
+#EXTINF:-1,239 HARRY POTTER 24/7
+http://factoryplay.online:8080/527683dc/ueq62936/358973
+#EXTINF:-1,240 LUCIFER 24/7
+http://zeuspro.xyz:8080/Salomonfran/NYBt1chgZM/37783
+#EXTINF:-1,241 STAR WARS 24/7
+http://zeuspro.xyz:8080/Salomonfran/NYBt1chgZM/37930
+#EXTINF:-1,241 XICA DA SILVA 24/7
+http://factoryplay.online:8080/527683dc/ueq62936/367632
+#EXTINF:-1,242 LOS 2 CHIFLADOS 24/7
+http://factoryplay.online:8080/527683dc/ueq62936/239071
 
 
 #EXTINF:-1,701 WILLAX HD
@@ -343,8 +354,8 @@ http://209.45.81.84:8000/play/a008
 http://209.45.81.84:8000/play/a002
 #EXTINF:-1,704 AMERICA TV HD
 http://209.45.81.84:8000/play/a007
-#EXTINF:-1,705 PANAMERICANA HD
-http://38.56.119.119:8000/play/a038/index.m3u8
+#EXTINF:-1,705 PANAMERICANA HD 
+http://209.45.81.84:8000/play/a00b
 #EXTINF:-1,706 EXITOSA HD
 http://209.45.81.84:8000/play/a035
 #EXTINF:-1,707 TV PERU HD
